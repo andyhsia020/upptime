@@ -4,13 +4,13 @@ repo: upptime # The name of this repository
 
 sites:
   - name: T&C
-    url: https://townandcamp.com/
+    url: https://townandcamp.com
   - name: Ti
-    url: https://timeidol.com/
+    url: https://timeidol.com
   - name: Af
-    url: https://www.affpeer.com/
+    url: https://www.affpeer.com
   - name: Polka.jp
-    url: https://polkadot-momlife.com/
+    url: https://polkadot-momlife.com
 
 status-website:
   cname: up.fxtrk.com
@@ -24,6 +24,7 @@ status-website:
       href: /
     - title: Sample
       href: #
+  theme: night
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
