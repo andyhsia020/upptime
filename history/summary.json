@@ -1,25 +1,5 @@
 [
   {
-    "name": "Grd",
-    "url": "https://www.guridio.com/",
-    "icon": "https://favicons.githubusercontent.com/www.guridio.com",
-    "slug": "grd",
-    "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
-    "time": 126,
-    "timeDay": 126,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126,
-    "dailyMinutesDown": {
-      "2022-09-28": 15
-    }
-  },
-  {
     "name": "T&C",
     "url": "https://townandcamp.com/",
     "icon": "https://favicons.githubusercontent.com/townandcamp.com",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 295,
-    "timeWeek": 295,
-    "timeMonth": 295,
-    "timeYear": 295,
+    "time": 255,
+    "timeDay": 255,
+    "timeWeek": 255,
+    "timeMonth": 255,
+    "timeYear": 255,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 303,
-    "timeWeek": 303,
-    "timeMonth": 303,
-    "timeYear": 303,
+    "time": 260,
+    "timeDay": 260,
+    "timeWeek": 260,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   },
   {
@@ -66,32 +46,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5379,
-    "timeDay": 5379,
-    "timeWeek": 5379,
-    "timeMonth": 5379,
-    "timeYear": 5379,
+    "time": 4337,
+    "timeDay": 4337,
+    "timeWeek": 4337,
+    "timeMonth": 4337,
+    "timeYear": 4337,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Post to Legu",
-    "url": "https://legu.digital/",
-    "icon": "https://favicons.githubusercontent.com/legu.digital",
-    "slug": "post-to-legu",
-    "status": "down",
-    "uptime": "0.59%",
-    "uptimeDay": "0.59%",
-    "uptimeWeek": "0.59%",
-    "uptimeMonth": "0.59%",
-    "uptimeYear": "0.59%",
-    "time": 188,
-    "timeDay": 188,
-    "timeWeek": 188,
-    "timeMonth": 188,
-    "timeYear": 188,
-    "dailyMinutesDown": {
-      "2022-09-28": 2
-    }
   },
   {
     "name": "Polka.jp",
@@ -104,31 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 804,
-    "timeWeek": 804,
-    "timeMonth": 804,
-    "timeYear": 804,
+    "time": 784,
+    "timeDay": 784,
+    "timeWeek": 784,
+    "timeMonth": 784,
+    "timeYear": 784,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Post to E5p",
-    "url": "https://easy5pwd.com/",
-    "icon": "https://favicons.githubusercontent.com/easy5pwd.com",
-    "slug": "post-to-e5p",
-    "status": "down",
-    "uptime": "1.98%",
-    "uptimeDay": "1.98%",
-    "uptimeWeek": "1.98%",
-    "uptimeMonth": "1.98%",
-    "uptimeYear": "1.98%",
-    "time": 110,
-    "timeDay": 110,
-    "timeWeek": 110,
-    "timeMonth": 110,
-    "timeYear": 110,
-    "dailyMinutesDown": {
-      "2022-09-28": 2
-    }
   }
 ]
