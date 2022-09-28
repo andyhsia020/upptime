@@ -1,20 +1,20 @@
 [
   {
-    "name": "POST to Google",
+    "name": "POST to Guridio",
     "url": "https://www.guridio.com",
     "icon": "https://favicons.githubusercontent.com/www.guridio.com",
-    "slug": "post-to-google",
+    "slug": "post-to-guridio",
     "status": "down",
-    "uptime": "7.63%",
-    "uptimeDay": "7.63%",
-    "uptimeWeek": "7.63%",
-    "uptimeMonth": "7.63%",
-    "uptimeYear": "7.63%",
-    "time": 141,
-    "timeDay": 141,
-    "timeWeek": 141,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "uptime": "28.55%",
+    "uptimeDay": "28.55%",
+    "uptimeWeek": "28.55%",
+    "uptimeMonth": "28.55%",
+    "uptimeYear": "28.55%",
+    "time": 135,
+    "timeDay": 135,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2022-09-28": 0
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 157,
-    "timeWeek": 157,
-    "timeMonth": 157,
-    "timeYear": 157,
+    "time": 195,
+    "timeDay": 195,
+    "timeWeek": 195,
+    "timeMonth": 195,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 147,
-    "timeWeek": 147,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "time": 190,
+    "timeDay": 190,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   }
 ]
