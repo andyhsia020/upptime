@@ -40,18 +40,20 @@
     "url": "https://www.affpeer.com",
     "icon": "https://favicons.githubusercontent.com/www.affpeer.com",
     "slug": "af",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 6413,
     "timeDay": 6413,
     "timeWeek": 6413,
     "timeMonth": 6413,
     "timeYear": 6413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-28": 0
+    }
   },
   {
     "name": "Polka.jp",
