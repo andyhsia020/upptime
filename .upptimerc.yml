@@ -4,23 +4,23 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Grd
-    url: https://www.guridio.com
+    url: https://www.guridio.com/
   - name: T&C
-    url: https://townandcamp.com
+    url: https://townandcamp.com/
   - name: Ti
-    url: https://timeidol.com
+    url: https://timeidol.com/
   - name: Af
-    url: https://www.affpeer.com
-  - name: Legu
-    url: https://legu.digital
+    url: https://www.affpeer.com/
+  - name: Post to Legu
+    url: https://legu.digital/
+    method: POST
   - name: Polka.jp
-    url: https://polkadot-momlife.com
-  - name: E5p
-    url: https://easy5pwd.com
+    url: https://polkadot-momlife.com/
+  - name: Post to E5p
+    url: https://easy5pwd.com/
+    method: POST
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: up.fxtrk.com
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -30,8 +30,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Sample
+      href: #
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
