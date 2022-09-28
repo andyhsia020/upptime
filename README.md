@@ -1,53 +1,13 @@
-# [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
+# [📈 Live Status](https://up.fxtrk.com): <!--live status--> **🟧 Partial outage**
 
-<!--start: description-->
+This repository contains the open-source uptime monitor and status page for [andyhsia](https://up.fxtrk.com), powered by [Upptime](https://github.com/upptime/upptime).
 
-**Upptime** (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions, Issues, and Pages. It's made with 💚 by your friends at [Koj](https://koj.co).
+[![Uptime CI](https://github.com/andyhsia020/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/andyhsia020/upptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Response Time CI](https://github.com/andyhsia020/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/andyhsia020/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
+[![Graphs CI](https://github.com/andyhsia020/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/andyhsia020/upptime/actions?query=workflow%3A%22Graphs+CI%22)
+[![Static Site CI](https://github.com/andyhsia020/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/andyhsia020/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
+[![Summary CI](https://github.com/andyhsia020/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/andyhsia020/upptime/actions?query=workflow%3A%22Summary+CI%22)
 
-> I find Upptime an incredible clever usage of \[GitHub Actions]. You essentially get a free configurable uptime monitor for whatever you want. – [CSS Tricks](https://css-tricks.com/upptime/)
+With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/andyhsia020/upptime/issues) as incident reports, [Actions](https://github.com/andyhsia020/upptime/actions) as uptime monitors, and [Pages](https://up.fxtrk.com) for the status page.
 
-Upptime is used by [**1,000+**](https://github.com/topics/upptime) people and teams to ensure they know when their endpoints go down.
-
-<!--end: description-->
-
-[![Uptime CI](https://github.com/upptime/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://github.com/upptime/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Graphs CI](https://github.com/upptime/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Graphs+CI%22)
-[![Static Site CI](https://github.com/upptime/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Summary CI](https://github.com/upptime/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Summary+CI%22)
-
-<!--start: docs-->
-
-## ⭐ How it works
-
-- GitHub Actions is used as an uptime monitor
-  - Every 5 minutes, a workflow visits your website to make sure it's up
-  - Response time is recorded every 6 hours and committed to git
-  - Graphs of response time are generated every day
-- GitHub Issues is used for incident reports
-  - An issue is opened if an endpoint is down
-  - People from your team are assigned to the issue
-  - Incidents reports are posted as issue comments
-  - Issues are locked so non-members cannot comment on them
-  - Issues are closed automatically when your site comes back up
-  - Slack notifications are sent on updates
-- GitHub Pages is used for the status website
-  - A simple, beautiful, and accessible PWA is generated
-  - Built with Svelte and Sapper
-  - Fetches data from this repository using the GitHub API
-
-_Upptime is not affiliated to or endorsed by GitHub._
-
-[![Screenshot of status website](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/screenshot-status.png)](https://upptime.js.org)
-
-## 👩‍💻 [Documentation](https://upptime.js.org)
-
-1. [How it works](https://upptime.js.org/docs)
-1. [Getting started](https://upptime.js.org/docs/get-started)
-1. [Configuration](https://upptime.js.org/docs/configuration)
-1. [Triggers](https://upptime.js.org/docs/triggers)
-1. [Notifications](https://upptime.js.org/docs/notifications)
-1. [Badges](https://upptime.js.org/docs/badges)
-1. [Packages](https://upptime.js.org/docs/packages)
-1. [Contributing](https://upptime.js.org/docs/contributing)
-1. [Frequently Asked Questions](https://upptime.js.org/docs/faq)
+[**Visit our status website →**](https://up.fxtrk.com)undefined
