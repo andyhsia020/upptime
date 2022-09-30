@@ -1,4 +1,4 @@
-# [📈 Live Status](https://up.fxtrk.com): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://up.fxtrk.com): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [andyhsia](https://up.fxtrk.com), powered by [Upptime](https://github.com/upptime/upptime).
 
