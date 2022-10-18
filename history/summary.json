@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.affpeer.com.ico",
     "slug": "af",
     "status": "up",
-    "uptime": "94.95%",
+    "uptime": "95.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.95%",
-    "uptimeYear": "94.95%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "95.03%",
     "time": 4797,
     "timeDay": 2373,
     "timeWeek": 2263,
@@ -65,7 +65,7 @@
     "url": "https://polkadot-momlife.com",
     "icon": "https://icons.duckduckgo.com/ip3/polkadot-momlife.com.ico",
     "slug": "polka-jp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -76,6 +76,8 @@
     "timeWeek": 2356,
     "timeMonth": 1720,
     "timeYear": 1720,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-18": 0
+    }
   }
 ]
