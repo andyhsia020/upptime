@@ -4,19 +4,19 @@
     "url": "https://townandcamp.com",
     "icon": "https://icons.duckduckgo.com/ip3/townandcamp.com.ico",
     "slug": "t-and-c",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 316,
-    "timeWeek": 319,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 335,
+    "timeDay": 599,
+    "timeWeek": 412,
+    "timeMonth": 335,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2022-10-25": 0
+      "2022-10-25": 58
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://timeidol.com",
     "icon": "https://icons.duckduckgo.com/ip3/timeidol.com.ico",
     "slug": "ti",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 244,
-    "timeWeek": 301,
-    "timeMonth": 314,
-    "timeYear": 314,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 338,
+    "timeDay": 551,
+    "timeWeek": 397,
+    "timeMonth": 338,
+    "timeYear": 338,
     "dailyMinutesDown": {
-      "2022-10-25": 0
+      "2022-10-25": 58
     }
   },
   {
