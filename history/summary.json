@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.89%",
-    "time": 319,
-    "timeDay": 284,
-    "timeWeek": 249,
-    "timeMonth": 328,
-    "timeYear": 319,
+    "time": 321,
+    "timeDay": 403,
+    "timeWeek": 268,
+    "timeMonth": 330,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2022-10-25": 58
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.89%",
-    "time": 320,
-    "timeDay": 292,
-    "timeWeek": 245,
-    "timeMonth": 324,
-    "timeYear": 320,
+    "time": 319,
+    "timeDay": 310,
+    "timeWeek": 249,
+    "timeMonth": 323,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2022-10-25": 58
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.affpeer.com.ico",
     "slug": "af",
     "status": "up",
-    "uptime": "97.20%",
+    "uptime": "97.23%",
     "uptimeDay": "98.00%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "97.20%",
-    "time": 4134,
-    "timeDay": 6305,
-    "timeWeek": 2988,
-    "timeMonth": 2539,
-    "timeYear": 4134,
+    "uptimeYear": "97.23%",
+    "time": 4107,
+    "timeDay": 6837,
+    "timeWeek": 2971,
+    "timeMonth": 2528,
+    "timeYear": 4107,
     "dailyMinutesDown": {
       "2022-11-04": 29,
       "2022-10-29": 32,
@@ -77,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.83%",
-    "time": 2422,
+    "time": 2407,
     "timeDay": 1748,
-    "timeWeek": 1682,
-    "timeMonth": 2852,
-    "timeYear": 2422,
+    "timeWeek": 1655,
+    "timeMonth": 2846,
+    "timeYear": 2407,
     "dailyMinutesDown": {
       "2022-10-18": 91
     }
